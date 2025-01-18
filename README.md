@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SIVA KUMAR</h1>
 <h3 align="center">👋 I'm Siva Kumar, an undergraduate Computer Science student with a passion for technology and coding! 🚀</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivakumar0412&label=Profile%20views&color=0e75b6&style=flat" alt="sivakumar0412" /> </p>
+
 - 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **sivakumar041203@gmail.com**
